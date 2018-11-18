@@ -1,0 +1,3 @@
+<div class="dac-word-rotator" data-words="android,everyone,people,phones,tablets,small screens,large screens,every screen,TVs,wearables,watches,things,laptops,the road,cars,autos,small businesses,billions,families,enterprise,photographers,artists,students,manufacturers,the outdoors,mindfulness,fitness,gamers,teachers,communities,yourself,friends,loved ones,living rooms,offices,museums,fun,love,business,explorers,security,safety,augmented reality,the virtual world,shopping,self-expression,kids,society,good,tomorrow,the future,today,change,the environment">
+                
+              <span class="is-entering is-active">good</span></div>
